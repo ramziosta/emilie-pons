@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/emilie-pons/static/css/main.ec80bd6f.css",
-    "main.js": "/emilie-pons/static/js/main.2f158cbb.js",
+    "main.css": "/emilie-pons/static/css/main.7c59b032.css",
+    "main.js": "/emilie-pons/static/js/main.00d1c949.js",
     "static/js/787.11f3e09b.chunk.js": "/emilie-pons/static/js/787.11f3e09b.chunk.js",
     "static/media/Hero.JPG": "/emilie-pons/static/media/Hero.9fd784780263516de16f.JPG",
     "static/media/pro3.jpg": "/emilie-pons/static/media/pro3.a286733e1842a28fdd81.jpg",
@@ -23,12 +23,12 @@
     "static/media/ttt.png": "/emilie-pons/static/media/ttt.71c21f98cfc7a40d242c.png",
     "static/media/TRT_World.svg": "/emilie-pons/static/media/TRT_World.7a1c678e7c88b5198cffd6fd68404808.svg",
     "index.html": "/emilie-pons/index.html",
-    "main.ec80bd6f.css.map": "/emilie-pons/static/css/main.ec80bd6f.css.map",
-    "main.2f158cbb.js.map": "/emilie-pons/static/js/main.2f158cbb.js.map",
+    "main.7c59b032.css.map": "/emilie-pons/static/css/main.7c59b032.css.map",
+    "main.00d1c949.js.map": "/emilie-pons/static/js/main.00d1c949.js.map",
     "787.11f3e09b.chunk.js.map": "/emilie-pons/static/js/787.11f3e09b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec80bd6f.css",
-    "static/js/main.2f158cbb.js"
+    "static/css/main.7c59b032.css",
+    "static/js/main.00d1c949.js"
   ]
 }
